@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="message">Message</string>
+    <string name="_1ch">1ch</string>
+    <string name="name">Name</string>
+    <string name="timeExample">2:20</string>
+    <string name="attachments">attachments</string>
+    <string name="photo">photo</string>
+    <string name="testText">Text for test text</string>
+    <string name="full_screen_image_activity_display_message">FullScreenImage</string>
+    <string name="scroll_down">scroll down</string>
+    <string name="send">send</string>
+    <string name="reply_label">Reply</string>
+</resources>
